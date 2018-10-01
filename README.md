@@ -1,2 +1,0 @@
-# OnlineSanboxForReact
-Created with CodeSandbox
